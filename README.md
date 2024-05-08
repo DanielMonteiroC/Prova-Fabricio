@@ -9,17 +9,12 @@ Aluno: Daniel Monteiro de Carvalho</h5>
 
 
 <h3>RESUMO FLASK</h3>
-"pip install sqlite3" - para conseguir manipular o banco de dados; <br>
-"pip install flask" - para instalação do framework<br>
-"pip install datetime" - para armazenar dia/ hora do cadastro <br>
+Acabei aprendendo um pouco sobra algo que nunca tinha lidado e acabou sendo deveras interessante.
 
 
 
 <h3>RESUMO MONGODB</h3>
-instalações para o projeto<br>
-"npm install mongoose"<br>
-"npm install express"<br>
-"npm install dotenv"<br>
+Encontrei um erro ao executar o  mongodb e infelizmente travei nessa parte apos diversas tentativas, por mais que rode localmente o mesmo encontra um erro na hora de subir.
 
 Foi desenvolvida uma aplicação para que todos se unam porém, sem sucesso, como pode ser visto abaixo:
 
